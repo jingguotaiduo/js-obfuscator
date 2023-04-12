@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "jjg-test-混淆JavaScript代码（https://github.com/javascript-obfuscator/javascript-obfuscator）",
+  "main": "index.js",
+  "scripts": {
+    "build": "run \"混淆-jjg.bat\"",
+    "dev":  "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.0.2"
+  }
+}

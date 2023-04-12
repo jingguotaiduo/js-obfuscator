@@ -1,0 +1,1 @@
+function defined(_0x5c256d){return _0x5c256d!==undefined&&_0x5c256d!==null;}export default defined;
